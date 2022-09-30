@@ -10,7 +10,7 @@
             <header>
                 <h1>HackingCode</h1>
             </header>
-            <hr style="background: rgb(255, 255, 255); height: 5px; border-radius: 10px;">
+            <hr>
             <img src="https://hackingcode.online/HackingCode.png" alt="HackingCode"><br>
             <b>Bienvenid@s a nuestra cuenta de github, aqui encontraras todos los proyectos de las clases mostradas en nuestra <a href="https://www.hackingcode.online/" target="_blank">Plataforma</a> si aun no estas registrad@ te invito a hacerlo ;), podras disfrutar de diferentes cursos como vulnerabilidades web, osint, pentesting y entre otras cosas mas.</b>
             <h2 style="color: rgb(255, 255, 255);">Siguenos en:</h2>
